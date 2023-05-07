@@ -7,6 +7,7 @@ test('ddua tambah dua adalah empat', () => {
     expect(2+2).toBe(4);
 });
 
+// menggunakan describe
 describe('pengujian oleh aritmatika', () => {
     test('#1 dua tambah dua adalah empat', () => {
         expect(2+2).tobe(4);
